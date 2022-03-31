@@ -1,3 +1,3 @@
-# Curso1-Github-Vicente
+# Curso1-Github
 
 Professora Juliana Vergutz
